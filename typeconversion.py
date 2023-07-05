@@ -1,0 +1,10 @@
+num1=eval(input("Enter First Number :"))
+num2=eval(input("Enter Second Number :"))
+res=num1+num2
+print("Type of First Number :",type(num1))
+print("Type of Second Number :",type(num2))
+print("Type of Result :", type(res))
+print("Result is :%.2f"%res)
+var=int(res)
+print("value of variable :",var)
+print("Type of variable :",type(var))
