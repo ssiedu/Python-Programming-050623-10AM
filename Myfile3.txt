@@ -1,0 +1,5 @@
+Ram  101  77  8
+Shyam  102  78  9
+Sita  103  80  10
+Geeta  104  81  11
+Mohan  105  82  12

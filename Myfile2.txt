@@ -1,0 +1,3 @@
+Sita	102	88Ram	101	78Shyam	103	78
+
+Geeta	104	87
